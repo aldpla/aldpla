@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aldpla
+- 👀 I’m interested in customizing QMK firmware to use with french accents
+- 🌱 I’m currently learning Python (beginner)
